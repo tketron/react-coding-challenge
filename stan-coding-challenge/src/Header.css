@@ -1,0 +1,16 @@
+.Header-Link {
+  color: white;
+  font-size: 1.8em;
+}
+
+.Header-buttons {
+  padding: 5px;
+}
+
+.Header-buttons span {
+  padding-right: 20px;
+}
+
+.Header-buttons button {
+  margin-right: 20px;
+}
